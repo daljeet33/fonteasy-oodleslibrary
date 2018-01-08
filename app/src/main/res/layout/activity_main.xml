@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <com.oodles.fontcachinglibrary.CustomTextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:textFont="@string/lato_bold"
+        android:textSize="20sp"
+        android:text="@string/org_name"
+        />
+    <com.oodles.fontcachinglibrary.CustomTextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:textFont="@string/lato_thin"
+        android:textSize="20sp"
+        android:text="@string/org_name"
+        />
+    <com.oodles.fontcachinglibrary.CustomTextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:textFont="@string/roboto_thin"
+        android:textSize="20sp"
+        android:text="@string/org_name"
+        />
+    <com.oodles.fontcachinglibrary.CustomTextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:textFont="@string/roboto_black"
+        android:textSize="20sp"
+        android:text="@string/org_name"
+        />
+</LinearLayout>

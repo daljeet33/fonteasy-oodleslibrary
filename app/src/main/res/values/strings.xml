@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FontCachingLibrary</string>
+    <string name="org_name">Oodles Technologies</string>
+
+    <string name="lato_bold">Lato-Bold.ttf</string>
+    <string name="lato_thin">Lato-Thin.ttf</string>
+    <string name="roboto_thin">Roboto-Thin.ttf</string>
+    <string name="roboto_black">Roboto-Black.ttf</string>
+</resources>
