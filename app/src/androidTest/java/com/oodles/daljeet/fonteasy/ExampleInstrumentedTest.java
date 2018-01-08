@@ -1,4 +1,4 @@
-package com.oodles.daljeet.fontcachinglibrary;
+package com.oodles.daljeet.fonteasy;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

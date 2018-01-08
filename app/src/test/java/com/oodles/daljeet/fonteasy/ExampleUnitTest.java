@@ -1,4 +1,4 @@
-package com.oodles.daljeet.fontcachinglibrary;
+package com.oodles.daljeet.fonteasy;
 
 import org.junit.Test;
 

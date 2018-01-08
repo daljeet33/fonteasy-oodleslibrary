@@ -1,4 +1,4 @@
-package com.oodles.fontcachinglibrary;
+package com.oodles.fonteasy;
 
 import android.content.Context;
 import android.content.res.TypedArray;
